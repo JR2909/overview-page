@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Nextcloud",
+    "description": "Self-hosted cloud service",
+    "url": "https://cloud.klitscher.info",
+    "icon": "images/nextcloud.svg",
+    "color": "#0082c9"
+  },
+  {
+    "name": "Jellyfin",
+    "description": "Self-hosted media service",
+    "url": "https://media.klitscher.info",
+    "icon": "images/jellyfin.svg",
+    "color": "#00a4dc"
+  },
+  {
+    "name": "Rezeptsammlung",
+    "description": "Self-hosted recipe collection",
+    "url": "https://rezeptesammlung.klitscher.info",
+    "icon": "images/bookstack.svg",
+    "color": "#0288D1"
+  },
+  {
+    "name": "srv-ionos-001",
+    "description": "VPS",
+    "url": "http://srv-ionos-001-cockpit.klitscher.info",
+    "icon": "images/debian.svg",
+    "color": "#A80030"
+  },
+  {
+    "name": "srv-ionos-002",
+    "description": "VPS",
+    "url": "http://srv-ionos-002-cockpit.klitscher.info",
+    "icon": "images/debian.svg",
+    "color": "#A80030"
+  }
+]
