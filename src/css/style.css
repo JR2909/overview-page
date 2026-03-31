@@ -123,6 +123,10 @@ h1 span {
   color: var(--accent);
 }
 
+a {
+  color: var(--accent);
+}
+
 .subtitle {
   margin-top: 14px;
   font-size: 15px;
@@ -264,6 +268,7 @@ h1 span {
 footer {
   margin-top: 72px;
   font-size: 12px;
+  text-align: center;
   color: var(--text-muted);
   letter-spacing: 0.05em;
   opacity: 0;

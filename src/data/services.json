@@ -33,5 +33,12 @@
     "url": "http://srv-ionos-002-cockpit.klitscher.info",
     "icon": "images/debian.svg",
     "color": "#A80030"
+  },
+  {
+    "name": "Homeassistant",
+    "description": "Home-Assistant-Portal, only available in Home-Wifi or via tailscale",
+    "url": "http://homeassistant:8123",
+    "icon": "images/home-assistant.svg",
+    "color": "#A80030" 
   }
 ]
